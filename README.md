@@ -4,7 +4,7 @@ Hello, world!
 ## My name is Konstantin
 
 - Studying / repeat - c++,c#
-- Working on a project -  [тык][social]
+- Working on a project -  [click][social]
 
 Programming languages and my capabilities:
 <img alling = "left" alt = "html" width = "26px" src = "https://github.com/ArtemKhairov/ArtemKhairov/blob/main/src/img/html.svg">
