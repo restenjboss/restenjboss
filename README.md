@@ -8,7 +8,7 @@
 <img alling = "left" alt = "Visual Studio code" width = "26px" src = "https://github.com/ArtemKhairov/ArtemKhairov/blob/main/src/img/html.svg">
 <img alling = "left" alt = "Visual Studio code" width = "26px" src = "https://github.com/ArtemKhairov/ArtemKhairov/blob/main/src/img/css.svg">
 <img alling = "left" alt = "Visual Studio code" width = "26px" src = "https://github.com/ArtemKhairov/ArtemKhairov/blob/main/src/img/jsb.svg">
-<img alling = "left" alt = "Visual Studio code" width = "26px" src = "https://icons8.ru/icon/Z61jn6Q8DsGq/lua">
+<img alling = "left" alt = "Visual Studio code" width = "26px" src = "img/icons8-lua-64.png">
 
 Lua; 
 
