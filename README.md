@@ -11,6 +11,6 @@ Lua;
 
 Языки, которые знаю не на отлично:
 
-<img alling = "left" alt = "Visual Studio code" width = "26px" src = "https://github.com/ArtemKhairov/ArtemKhairov/blob/main/src/img/jsb.svg)https://github.com/ArtemKhairov/ArtemKhairov/blob/main/src/img/jsb.svg">;
+<img alling = "left" alt = "Visual Studio code" width = "26px" src = "https://github.com/ArtemKhairov/ArtemKhairov/blob/main/src/img/jsb.svg">;
 
 [social]:vk.com
