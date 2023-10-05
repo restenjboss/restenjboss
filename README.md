@@ -1,6 +1,6 @@
 <img src = "img/mini_magick20190820-130-3syykg.jpg">
 
-Hello world!
+Hello, world!
 ## My name is Konstantin
 
 - Studying / repeat - 
