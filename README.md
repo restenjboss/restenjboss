@@ -3,7 +3,7 @@
 Hello, world!
 ## My name is Konstantin
 
-- Studying / repeat - c++,c#
+- Studying / repeat - c++, c#, python
 - Working on a project -  [click][social]
 
 Programming languages and my capabilities:
